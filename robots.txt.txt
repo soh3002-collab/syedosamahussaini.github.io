@@ -1,9 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /404.html
-
-# Host
-Host: https://syedosamahussaini.github.io/
-
-# Sitemap location
-Sitemap: https://syedosamahussaini.github.io/sitemap.xml
