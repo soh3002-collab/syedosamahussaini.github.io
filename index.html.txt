@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portfolio of Syed Osama Hussaini, a GIKI Mechanical Engineering graduate (2026). Expert in HVAC, Energy Systems, CFD, FEA, and Machine Learning. Winner of 1st Position at GIKI Industrial Open House.">
+    <meta name="keywords" content="Mechanical Engineer, GIKI, HVAC Design, CFD, FEA, Machine Learning, Energy Systems, Syed Osama Hussaini, Pakistan Engineering">
+    <meta name="author" content="Syed Osama Hussaini">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://syedosamahussaini.github.io/">
+    <meta property="og:title" content="Syed Osama Hussaini | Mechanical Engineer — Energy · HVAC · CFD · AI">
+    <meta property="og:description" content="Mechanical Engineering graduate from GIKI. 1st Position winner for FLEX-SENS. Expert in computational engineering and sustainable energy systems.">
+    <meta property="og:image" content="assets/images/og/syed-osama-hussaini-og.jpg">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://syedosamahussaini.github.io/">
+    <meta property="twitter:title" content="Syed Osama Hussaini | Mechanical Engineer">
+    <meta property="twitter:description" content="Mechanical Engineering graduate from GIKI. 1st Position winner for FLEX-SENS. Expert in computational engineering and sustainable energy systems.">
+    <meta property="twitter:image" content="assets/images/og/syed-osama-hussaini-og.jpg">
+
+    <title>Syed Osama Hussaini | Mechanical Engineer — Energy · HVAC · CFD · AI</title>
+
+    <!-- Preconnect Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- Global CSS -->
+    <link rel="stylesheet" href="assets/css/styles.css">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="assets/images/favicon.png">
+
+    <!-- Structured Data (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Person",
+      "name": "Syed Osama Hussaini",
+      "jobTitle": "Mechanical Engineer",
+      "url": "https://syedosamahussaini.github.io/",
+      "sameAs": [
+        "https://www.linkedin.com/in/syed-osama-hussaini-078284263/",
+        "https://github.com/syedosamahussaini"
+      ],
+      "alumniOf": {
+        "@type": "CollegeOrUniversity",
+        "name": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology",
+        "alternateName": "GIKI"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Karachi",
+        "addressCountry": "PK"
+      }
+    }
+    </script>
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar" aria-label="Main Navigation">
+        <div class="container nav-container">
+            <a href="index.html" class="logo">S.O.<span>H</span></a>
+            
+            <button class="mobile-toggle" aria-controls="nav-links" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </button>
+
+            <ul class="nav-links" id="nav-links">
+                <li><a href="about.html" class="nav-item">About</a></li>
+                <li><a href="projects.html" class="nav-item">Projects</a></li>
+                <li><a href="research.html" class="nav-item">Research</a></li>
+                <li><a href="internships.html" class="nav-item">Internships</a></li>
+                <li><a href="leadership.html" class="nav-item">Leadership</a></li>
+                <li><a href="certifications.html" class="nav-item">Certs</a></li>
+                <li><a href="contact.html" class="nav-item">Contact</a></li>
+                <li><a href="assets/documents/Syed_Osama_Hussaini_Resume_PEL.pdf" class="btn btn-outline btn-sm" download>Resume ↓</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main id="main-content">
+
+        <!-- Hero Section -->
+        <section class="section hero-section" id="hero">
+            <div class="container hero-grid">
+                <div class="hero-content fade-up">
+                    <span class="section-label">Mechanical Engineer · GIKI '26</span>
+                    <h1 class="hero-name">Syed Osama Hussaini</h1>
+                    <div class="typed-container">
+                        <span id="typed-role"></span><span class="typed-cursor">|</span>
+                    </div>
+                    <p class="hero-tagline">
+                        Engineering solutions at the intersection of energy systems, computational analysis, and intelligent automation — from commercial HVAC design to award-winning nanoparticle sensor development.
+                    </p>
+                    <div class="hero-actions">
+                        <a href="projects.html" class="btn btn-primary">View Projects</a>
+                        <a href="contact.html" class="btn btn-outline">Get In Touch</a>
+                    </div>
+                </div>
+                <div class="hero-visual fade-up">
+                    <div class="image-frame">
+                        <img src="assets/images/profile/Syed_Osama_Hussaini.jpg" alt="Syed Osama Hussaini — Mechanical Engineer" class="profile-photo">
+                        <div class="award-badge">
+                            <span class="rank">#1</span>
+                            <span class="event">FYDP '26</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Stats Strip -->
+        <section class="section-alt stats-strip">
+            <div class="container stats-grid">
+                <div class="stat-item fade-up">
+                    <span class="stat-number">20</span>
+                    <span class="stat-label">Projects</span>
+                </div>
+                <div class="stat-item fade-up">
+                    <span class="stat-number">3.63</span>
+                    <span class="stat-label">CGPA</span>
+                </div>
+                <div class="stat-item fade-up">
+                    <span class="stat-number">98%</span>
+                    <span class="stat-label">ML Accuracy</span>
+                </div>
+                <div class="stat-item fade-up">
+                    <span class="stat-number">5</span>
+                    <span class="stat-label">Dean's Honors</span>
+                </div>
+                <div class="stat-item fade-up">
+                    <span class="stat-number">1st</span>
+                    <span class="stat-label">Open House</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- About Preview -->
+        <section class="section" id="about-preview">
+            <div class="container">
+                <span class="section-label">01 — Who I Am</span>
+                <h2 class="section-title">Professional Summary</h2>
+                <div class="gold-divider"></div>
+                <div class="about-grid">
+                    <div class="about-text fade-up">
+                        <p class="lead">
+                            Mechanical Engineering graduate from GIKI (Class of 2026) with hands-on experience in HVAC, manufacturing, and preventive maintenance across oil & gas, shipyard, and building services industries.
+                        </p>
+                        <p>
+                            Proficient in SolidWorks, ANSYS, and Carrier HAP, I leverage computational fluid dynamics (CFD) and finite element analysis (FEA) alongside machine learning to solve complex industrial challenges. Awarded 5 Dean's Honor Roll Certificates for academic excellence.
+                        </p>
+                        <a href="about.html" class="btn btn-outline">Read Full Biography →</a>
+                    </div>
+                    <div class="education-snapshot fade-up">
+                        <div class="glass-card education-card">
+                            <span class="edu-year">2022 — 2026</span>
+                            <h3>B.S. Mechanical Engineering</h3>
+                            <p class="edu-inst">Ghulam Ishaq Khan Institute (GIKI)</p>
+                            <ul class="edu-achievements">
+                                <li>1st Position — Industrial Open House 2026</li>
+                                <li>5x Dean's Honor Roll Recipient</li>
+                                <li>Head of Documentation — Team Foxtrot UAV</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Featured Projects -->
+        <section class="section-alt" id="featured-projects">
+            <div class="container">
+                <span class="section-label">02 — Portfolio</span>
+                <h2 class="section-title">Featured Work</h2>
+                <div class="gold-divider"></div>
+
+                <!-- Flagship Project Card -->
+                <div class="flagship-card glass-card fade-up">
+                    <div class="fp-content">
+                        <span class="badge flagship-badge">🏆 Flagship Project</span>
+                        <h3>FLEX-SENS: Flexible Nanoparticle-Infused Tactile Sensor</h3>
+                        <p>Award-winning Final Year Design Project developing a capacitive tactile sensor using ZnO nanocomposite and printed silver electrodes. Integrated ML pipeline (XGBoost/MLP) achieved 98% accuracy.</p>
+                        <div class="fp-metrics">
+                            <div class="metric"><span>31,000</span><label>Data Points</label></div>
+                            <div class="metric"><span>0.9846</span><label>R² Accuracy</label></div>
+                        </div>
+                        <a href="projects/flex-sens.html" class="btn btn-primary">View Case Study</a>
+                    </div>
+                    <div class="fp-visual">
+                        <img src="assets/images/projects/flex-sens-fig1a.jpg" alt="FLEX-SENS Project Visual">
+                    </div>
+                </div>
+
+                <!-- Featured Grid -->
+                <div class="featured-grid">
+                    <div class="glass-card project-card fade-up">
+                        <span class="project-num">Project 04</span>
+                        <h3>HVAC System Design — Centaurus Complex</h3>
+                        <p>Full HVAC design for an 8-storey commercial building using Carrier HAP, compliant with ASHRAE standards.</p>
+                        <div class="card-tags">
+                            <span class="tag">Carrier HAP</span>
+                            <span class="tag">ASHRAE</span>
+                        </div>
+                        <a href="projects/hvac-centaurus.html" class="project-link">View Details →</a>
+                    </div>
+                    
+                    <div class="glass-card project-card fade-up">
+                        <span class="project-num">Project 07</span>
+                        <h3>CFD Analysis — VTOL Airfoil</h3>
+                        <p>Aerodynamic investigation of a Peregrine Falcon-inspired airfoil for military VTOL aircraft using ANSYS Fluent.</p>
+                        <div class="card-tags">
+                            <span class="tag">ANSYS Fluent</span>
+                            <span class="tag">UAV</span>
+                        </div>
+                        <a href="projects/vtol-airfoil.html" class="project-link">View Details →</a>
+                    </div>
+                </div>
+                
+                <div class="center-cta fade-up">
+                    <a href="projects.html" class="btn btn-outline">Explore All 20 Projects</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Internships & Experience -->
+        <section class="section" id="experience-preview">
+            <div class="container">
+                <span class="section-label">03 — Industry Exposure</span>
+                <h2 class="section-title">Where I Have Worked</h2>
+                <div class="gold-divider"></div>
+                <div class="experience-timeline fade-up">
+                    <div class="timeline-strip">
+                        <div class="timeline-item">
+                            <div class="dot"></div>
+                            <span class="time-date">2025</span>
+                            <div class="glass-card exp-card">
+                                <h4>Karachi Shipyard & Engineering Works</h4>
+                                <p class="exp-role">Mechanical Engineering Intern</p>
+                            </div>
+                        </div>
+                        <div class="timeline-item">
+                            <div class="dot"></div>
+                            <span class="time-date">2025</span>
+                            <div class="glass-card exp-card">
+                                <h4>Mari Energies — MSD RIG-04</h4>
+                                <p class="exp-role">Drilling Rig Operations Intern</p>
+                            </div>
+                        </div>
+                        <div class="timeline-item">
+                            <div class="dot"></div>
+                            <span class="time-date">2024</span>
+                            <div class="glass-card exp-card">
+                                <h4>Paragon Constructors — Emaar North Tower</h4>
+                                <p class="exp-role">HVAC Intern (Building Services)</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="center-cta">
+                    <a href="internships.html" class="btn btn-outline">View Full Experience</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Leadership Highlight -->
+        <section class="section-alt" id="leadership-highlight">
+            <div class="container">
+                <div class="leadership-grid">
+                    <div class="leadership-content fade-up">
+                        <span class="section-label">04 — Leadership</span>
+                        <h2 class="section-title-left">Team Foxtrot UAV</h2>
+                        <p>As the Head of Documentation, I led the technical workflow for GIKI's autonomous UAV development team, coordinating between aerodynamics, structures, and software sub-teams.</p>
+                        <a href="leadership.html" class="btn btn-outline">Leadership Profile</a>
+                    </div>
+                    <div class="leadership-image fade-up">
+                        <div class="glass-card visual-feature">
+                            <img src="assets/images/projects/vtol-fig7.jpg" alt="Autonomous UAV Development">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact CTA -->
+        <section class="section contact-cta" id="contact">
+            <div class="container">
+                <div class="cta-box glass-card fade-up">
+                    <h2>Ready to discuss an opportunity?</h2>
+                    <p>I am currently open to full-time engineering roles in Energy, HVAC, Oil & Gas, and Computational Engineering globally.</p>
+                    <div class="cta-btns">
+                        <a href="contact.html" class="btn btn-primary">Get In Touch</a>
+                        <a href="mailto:syedosamahussaini.2003@gmail.com" class="btn btn-outline">Direct Email</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container footer-grid">
+            <div class="footer-brand">
+                <a href="index.html" class="logo">S.O.<span>H</span></a>
+                <p>Mechanical Engineer · GIKI Class of 2026</p>
+                <div class="footer-socials">
+                    <a href="https://www.linkedin.com/in/syed-osama-hussaini-078284263/" aria-label="LinkedIn"><img src="assets/images/icons/linkedin.svg" alt=""></a>
+                    <a href="https://github.com/syedosamahussaini" aria-label="GitHub"><img src="assets/images/icons/github.svg" alt=""></a>
+                </div>
+            </div>
+            <div class="footer-nav">
+                <p class="footer-title">Navigation</p>
+                <ul>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="projects.html">Projects</a></li>
+                    <li><a href="research.html">Research</a></li>
+                    <li><a href="certifications.html">Certifications</a></li>
+                </ul>
+            </div>
+            <div class="footer-contact">
+                <p class="footer-title">Location</p>
+                <p>Karachi, Pakistan</p>
+                <p>Open to Relocation</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="container">
+                <p>&copy; 2026 Syed Osama Hussaini. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
